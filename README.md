@@ -52,8 +52,3 @@ para a instação você deve ter preveamente o [docker](https://www.docker.com/p
 - Iniciar container: *docker compose up -d*
 - criar container: *docker-compose up -d*
 
-
-## Aprendizados
-
-O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
-
