@@ -1,5 +1,5 @@
 
-# Olá, eu sou Matheus! 👋
+# Olá, eu me chamo Matheus! 👋
 Esse projeto é divido na pasta web e na pasta server, a pasta web conten o front-and do sistema, nela foi ultilizado react, vite e typescript, na pasta server foi ultilizado node, docker e a bliblioteca Fastify;
 
 O projeto é um site desktop de registro de metas com progresso semanal.
